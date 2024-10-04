@@ -44,7 +44,7 @@ namespace Лаб_2
             textBoxOutput.Text = String.Empty;
             Adj_matrix adj_mat = createAdjMatrix();
             textBoxOutput.Text = adj_mat.Print();
-            if (cbTraversalMethod.SelectedIndex != -1)
+            if (cbTraversalMethod.SelectedIndex != 0)
             {
                 textBoxOutput.AppendText(adj_mat.DepthFirstSearch(cbVertice.SelectedIndex));
             }
