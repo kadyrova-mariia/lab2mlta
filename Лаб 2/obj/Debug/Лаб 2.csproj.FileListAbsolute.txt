@@ -1,0 +1,20 @@
+C:\Users\mvilt\Pictures\МЛТА\Лаб 2\Лаб 2\bin\Debug\Лаб 2.exe.config
+C:\Users\mvilt\Pictures\МЛТА\Лаб 2\Лаб 2\bin\Debug\Лаб 2.exe
+C:\Users\mvilt\Pictures\МЛТА\Лаб 2\Лаб 2\bin\Debug\Лаб 2.pdb
+C:\Users\mvilt\Pictures\МЛТА\Лаб 2\Лаб 2\obj\Debug\Лаб 2.csproj.AssemblyReference.cache
+C:\Users\mvilt\Pictures\МЛТА\Лаб 2\Лаб 2\obj\Debug\Лаб_2.GraphForm.resources
+C:\Users\mvilt\Pictures\МЛТА\Лаб 2\Лаб 2\obj\Debug\Лаб_2.Properties.Resources.resources
+C:\Users\mvilt\Pictures\МЛТА\Лаб 2\Лаб 2\obj\Debug\Лаб 2.csproj.GenerateResource.cache
+C:\Users\mvilt\Pictures\МЛТА\Лаб 2\Лаб 2\obj\Debug\Лаб 2.csproj.CoreCompileInputs.cache
+C:\Users\mvilt\Pictures\МЛТА\Лаб 2\Лаб 2\obj\Debug\Лаб 2.exe
+C:\Users\mvilt\Pictures\МЛТА\Лаб 2\Лаб 2\obj\Debug\Лаб 2.pdb
+C:\Users\mvilt\Pictures\МЛТА\ЛР 2\Лаб 2\Лаб 2\bin\Debug\Лаб 2.exe.config
+C:\Users\mvilt\Pictures\МЛТА\ЛР 2\Лаб 2\Лаб 2\bin\Debug\Лаб 2.exe
+C:\Users\mvilt\Pictures\МЛТА\ЛР 2\Лаб 2\Лаб 2\bin\Debug\Лаб 2.pdb
+C:\Users\mvilt\Pictures\МЛТА\ЛР 2\Лаб 2\Лаб 2\obj\Debug\Лаб 2.csproj.AssemblyReference.cache
+C:\Users\mvilt\Pictures\МЛТА\ЛР 2\Лаб 2\Лаб 2\obj\Debug\Лаб_2.GraphForm.resources
+C:\Users\mvilt\Pictures\МЛТА\ЛР 2\Лаб 2\Лаб 2\obj\Debug\Лаб_2.Properties.Resources.resources
+C:\Users\mvilt\Pictures\МЛТА\ЛР 2\Лаб 2\Лаб 2\obj\Debug\Лаб 2.csproj.GenerateResource.cache
+C:\Users\mvilt\Pictures\МЛТА\ЛР 2\Лаб 2\Лаб 2\obj\Debug\Лаб 2.csproj.CoreCompileInputs.cache
+C:\Users\mvilt\Pictures\МЛТА\ЛР 2\Лаб 2\Лаб 2\obj\Debug\Лаб 2.exe
+C:\Users\mvilt\Pictures\МЛТА\ЛР 2\Лаб 2\Лаб 2\obj\Debug\Лаб 2.pdb
